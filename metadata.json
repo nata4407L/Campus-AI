@@ -1,0 +1,5 @@
+{
+  "name": "CampusAI",
+  "description": "Student academic analytics and study assistant for managing student profiles, courses, and subject performance.",
+  "requestFramePermissions": []
+}
